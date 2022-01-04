@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Sai</h1>
 <h3 align="center">Debugging life</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasai2004" alt="adityasai2004" /></a> </p>
-
 - 🔭 I’m currently working on **Being alive**
 
 - 🌱 I’m currently learning **Data science**
