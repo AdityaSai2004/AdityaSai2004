@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Being alive**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science,python,Linear Alegra 18.06**
 
 - 🤝 I’m looking for help with **Data science, Machine learning**
 
