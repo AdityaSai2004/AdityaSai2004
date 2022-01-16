@@ -21,5 +21,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
 </a> </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasai2004&show_icons=true&layout=compact&theme=vue"alt="adityasai2004"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasai2004&show_icons=true&layout=compact&theme=vue"alt="adityasai2004"/>
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=adityasai2004&theme=vue&show_icons=true" alt="Aditya Sai's stats" /></a> 
