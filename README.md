@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356F722&lines=Debugging+is+like+being+the+detective+in+a+crime+drama+where+you+are+also+the+murderer.)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Aditya Sai</h1>
 <h3 align="center">Debugging life</h3>
 
