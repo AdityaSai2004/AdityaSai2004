@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science,c++,Front end**
 
-- 🤝 I’m looking for help with **Data science, Machine learning**
+- 🤝 I’m looking for help with **Data science, Machine learning,CSS**
 
 - 📫 How to reach me **2004sai@gmail.com**
 
