@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Sai</h1>
 <h3 align="center">Debugging life</h3>
 
-- 🔭 I’m currently working on **Being alive**
+- 🔭 I’m currently working on **Front-end**
 
-- 🌱 I’m currently learning **Data science,python,Linear Alegra**
+- 🌱 I’m currently learning **Data science,c++,Front end**
 
 - 🤝 I’m looking for help with **Data science, Machine learning**
 
