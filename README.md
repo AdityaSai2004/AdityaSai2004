@@ -22,5 +22,5 @@
 </a> </p>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasai2004&show_icons=true&layout=compact&theme=vue"alt="adityasai2004"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityasai2004&theme=vue&show_icons=true" alt="Aditya Sai's stats" /></a> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasai2004&show_icons=true&layout=compact&theme=chartreuse-dark"alt="adityasai2004"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityasai2004&theme=chartreuse-dark&show_icons=true" alt="Aditya Sai's stats" /></a> 
