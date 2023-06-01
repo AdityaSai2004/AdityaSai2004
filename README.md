@@ -23,4 +23,4 @@
 <br>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasai2004&show_icons=true&layout=compact&theme=chartreuse-dark"alt="adityasai2004"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityasai2004&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true" alt="Aditya Sai's stats" /></a> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityasai2004&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Aditya Sai's stats" /></a> 
